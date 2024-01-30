@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Compiled JavaScript
+dist/
+build/
+
+# Environment settings
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
